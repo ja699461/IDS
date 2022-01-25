@@ -1,0 +1,38 @@
+[
+   {
+      "empID": "334332",
+      "empName": "Daniel",
+      "gender": "M",
+      "salary": "2300"
+   },
+   {
+      "empID": "334333",
+      "empName": "John",
+      "gender": "M",
+      "salary": "2000"
+   },
+   {
+      "empID": "338332",
+      "empName": "Michael",
+      "gender": "M",
+      "salary": "2800"
+   },
+   {
+      "empID": "339232",
+      "empName": "Diana",
+      "gender": "F",
+      "salary": "1800"
+   },
+   {
+      "empID": "337891",
+      "empName": "Joseph",
+      "gender": "M",
+      "salary": "3800"
+   },
+   {
+      "empID": "339876",
+      "empName": "Agnes",
+      "gender": "F",
+      "salary": "4000"
+   }
+]
