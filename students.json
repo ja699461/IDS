@@ -1,0 +1,802 @@
+[
+	{
+		"Rank": 4,
+		"Major": "Mathematics",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 2.72
+	},
+	{
+		"Rank": 3,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 3.06
+	},
+	{
+		"Rank": 3,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 3.67
+	},
+	{
+		"Rank": 1,
+		"Major": "Physics",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 2.82
+	},
+	{
+		"Rank": 4,
+		"Major": "Business",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 2.39
+	},
+	{
+		"Rank": 3,
+		"Major": "Mathematics",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NJ",
+		"GPA": 2.76
+	},
+	{
+		"Rank": 3,
+		"Major": "Biology",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 2.92
+	},
+	{
+		"Rank": 2,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "PA",
+		"GPA": 2.84
+	},
+	{
+		"Rank": 3,
+		"Major": "Business",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.71
+	},
+	{
+		"Rank": 3,
+		"Major": "Art",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 2.63
+	},
+	{
+		"Rank": 2,
+		"Major": "Chemistry",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 3.31
+	},
+	{
+		"Rank": 2,
+		"Major": "Biology",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NJ",
+		"GPA": 3.26
+	},
+	{
+		"Rank": 3,
+		"Major": "Art",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 2.72
+	},
+	{
+		"Rank": 3,
+		"Major": "Archeology",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 2.86
+	},
+	{
+		"Rank": 3,
+		"Major": "Art",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 4.34
+	},
+	{
+		"Rank": 1,
+		"Major": "Archeology",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 3.31
+	},
+	{
+		"Rank": 1,
+		"Major": "Business",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 3.26
+	},
+	{
+		"Rank": 3,
+		"Major": "Computer Science",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 3.00
+	},
+	{
+		"Rank": 3,
+		"Major": "Sociology",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.03
+	},
+	{
+		"Rank": 4,
+		"Major": "Physics",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 2.38
+	},
+	{
+		"Rank": 1,
+		"Major": "Computer Science",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 2.98
+	},
+	{
+		"Rank": 3,
+		"Major": "Business",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 4.03
+	},
+	{
+		"Rank": 2,
+		"Major": "Computer Science",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.40
+	},
+	{
+		"Rank": 1,
+		"Major": "Sociology",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 2.87
+	},
+	{
+		"Rank": 2,
+		"Major": "Mathematics",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 3.17
+	},
+	{
+		"Rank": 1,
+		"Major": "Business",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 3.10
+	},
+	{
+		"Rank": 3,
+		"Major": "Biology",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 3.38
+	},
+	{
+		"Rank": 2,
+		"Major": "Business",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 2.56
+	},
+	{
+		"Rank": 3,
+		"Major": "Biology",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 2.54
+	},
+	{
+		"Rank": 2,
+		"Major": "Chemistry",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "PA",
+		"GPA": 3.00
+	},
+	{
+		"Rank": 3,
+		"Major": "Chemistry",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 3.19
+	},
+	{
+		"Rank": 3,
+		"Major": "Mathematics",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 3.36
+	},
+	{
+		"Rank": 3,
+		"Major": "Archeology",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 2.67
+	},
+	{
+		"Rank": 3,
+		"Major": "Sociology",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 2.79
+	},
+	{
+		"Rank": 2,
+		"Major": "Mathematics",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 2.87
+	},
+	{
+		"Rank": 1,
+		"Major": "Biology",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.97
+	},
+	{
+		"Rank": 3,
+		"Major": "Computer Science",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 3.16
+	},
+	{
+		"Rank": 2,
+		"Major": "Computer Science",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 3.73
+	},
+	{
+		"Rank": 1,
+		"Major": "Chemistry",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 2.31
+	},
+	{
+		"Rank": 2,
+		"Major": "Physics",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 2.60
+	},
+	{
+		"Rank": 2,
+		"Major": "Archeology",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 2.58
+	},
+	{
+		"Rank": 4,
+		"Major": "Biology",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "NJ",
+		"GPA": 3.05
+	},
+	{
+		"Rank": 4,
+		"Major": "Sociology",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 3.27
+	},
+	{
+		"Rank": 4,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 3.55
+	},
+	{
+		"Rank": 2,
+		"Major": "Art",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 2.21
+	},
+	{
+		"Rank": 3,
+		"Major": "Business",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 3.02
+	},
+	{
+		"Rank": 3,
+		"Major": "Art",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 3.45
+	},
+	{
+		"Rank": 2,
+		"Major": "Physics",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 3.14
+	},
+	{
+		"Rank": 3,
+		"Major": "Mathematics",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 3.01
+	},
+	{
+		"Rank": 3,
+		"Major": "Sociology",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.59
+	},
+	{
+		"Rank": 3,
+		"Major": "Business",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 3.06
+	},
+	{
+		"Rank": 4,
+		"Major": "Computer Science",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 3.78
+	},
+	{
+		"Rank": 3,
+		"Major": "Sociology",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 3.93
+	},
+	{
+		"Rank": 2,
+		"Major": "Business",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "PA",
+		"GPA": 2.46
+	},
+	{
+		"Rank": 4,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 2.77
+	},
+	{
+		"Rank": 2,
+		"Major": "Business",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 3.37
+	},
+	{
+		"Rank": 3,
+		"Major": "Computer Science",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 3.55
+	},
+	{
+		"Rank": 1,
+		"Major": "Sociology",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 3.68
+	},
+	{
+		"Rank": 3,
+		"Major": "Art",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.61
+	},
+	{
+		"Rank": 3,
+		"Major": "Computer Science",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "PA",
+		"GPA": 2.73
+	},
+	{
+		"Rank": 1,
+		"Major": "Chemistry",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "NJ",
+		"GPA": 1.97
+	},
+	{
+		"Rank": 3,
+		"Major": "Business",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 2.18
+	},
+	{
+		"Rank": 4,
+		"Major": "Chemistry",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 2.96
+	},
+	{
+		"Rank": 2,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 3.75
+	},
+	{
+		"Rank": 2,
+		"Major": "Sociology",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.80
+	},
+	{
+		"Rank": 3,
+		"Major": "Sociology",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 2.67
+	},
+	{
+		"Rank": 2,
+		"Major": "Sociology",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 2.41
+	},
+	{
+		"Rank": 2,
+		"Major": "Computer Science",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.10
+	},
+	{
+		"Rank": 4,
+		"Major": "Mathematics",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 2.65
+	},
+	{
+		"Rank": 1,
+		"Major": "Computer Science",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.59
+	},
+	{
+		"Rank": 1,
+		"Major": "Mathematics",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "PA",
+		"GPA": 3.11
+	},
+	{
+		"Rank": 1,
+		"Major": "Archeology",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.61
+	},
+	{
+		"Rank": 3,
+		"Major": "Sociology",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 3.95
+	},
+	{
+		"Rank": 3,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 3.08
+	},
+	{
+		"Rank": 1,
+		"Major": "Mathematics",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "PA",
+		"GPA": 3.52
+	},
+	{
+		"Rank": 2,
+		"Major": "Chemistry",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "PA",
+		"GPA": 3.52
+	},
+	{
+		"Rank": 3,
+		"Major": "Art",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 1.84
+	},
+	{
+		"Rank": 2,
+		"Major": "Art",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 3.10
+	},
+	{
+		"Rank": 1,
+		"Major": "Physics",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 2.27
+	},
+	{
+		"Rank": 4,
+		"Major": "Business",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 4.02
+	},
+	{
+		"Rank": 2,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NJ",
+		"GPA": 3.38
+	},
+	{
+		"Rank": 2,
+		"Major": "Business",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 2.82
+	},
+	{
+		"Rank": 1,
+		"Major": "Sociology",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 3.05
+	},
+	{
+		"Rank": 4,
+		"Major": "Archeology",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 2.21
+	},
+	{
+		"Rank": 3,
+		"Major": "Mathematics",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 2.91
+	},
+	{
+		"Rank": 2,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 2.30
+	},
+	{
+		"Rank": 4,
+		"Major": "Art",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 1.80
+	},
+	{
+		"Rank": 4,
+		"Major": "Business",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.23
+	},
+	{
+		"Rank": 3,
+		"Major": "Mathematics",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 3.65
+	},
+	{
+		"Rank": 2,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 3.00
+	},
+	{
+		"Rank": 1,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.47
+	},
+	{
+		"Rank": 4,
+		"Major": "Art",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 3.07
+	},
+	{
+		"Rank": 2,
+		"Major": "Sociology",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 3.08
+	},
+	{
+		"Rank": 2,
+		"Major": "Art",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "NJ",
+		"GPA": 3.95
+	},
+	{
+		"Rank": 3,
+		"Major": "Sociology",
+		"Gender": "Female",
+		"Smoker": "Yes",
+		"Residence": "NJ",
+		"GPA": 3.18
+	},
+	{
+		"Rank": 1,
+		"Major": "Computer Science",
+		"Gender": "Male",
+		"Smoker": "No",
+		"Residence": "DE",
+		"GPA": 2.83
+	},
+	{
+		"Rank": 2,
+		"Major": "Physics",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 2.71
+	},
+	{
+		"Rank": 3,
+		"Major": "Mathematics",
+		"Gender": "Female",
+		"Smoker": "No",
+		"Residence": "NY",
+		"GPA": 2.59
+	},
+	{
+		"Rank": 4,
+		"Major": "Art",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "NY",
+		"GPA": 2.37
+	},
+	{
+		"Rank": 1,
+		"Major": "Art",
+		"Gender": "Male",
+		"Smoker": "Yes",
+		"Residence": "DE",
+		"GPA": 3.13
+	}
+]
