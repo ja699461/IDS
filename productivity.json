@@ -1,152 +1,152 @@
 [
  {
    "Productivity": 5,
-   "Experience": "1",
+   "Experience": 1,
    "Training": "Y"
  },
  {
    "Productivity": 2,
-   "Experience": "0",
+   "Experience": 0,
    "Training": "N"
  },
  {
    "Productivity": 10,
-   "Experience": "10",
+   "Experience": 10,
    "Training": "Y"
  },
  {
    "Productivity": 4,
-   "Experience": "5",
+   "Experience": 5,
    "Training": "Y"
  },
  {
    "Productivity": 6,
-   "Experience": "5",
+   "Experience": 5,
    "Training": "Y"
  },
  {
    "Productivity": 12,
-   "Experience": "15",
+   "Experience": 15,
    "Training": "Y"
  },
  {
    "Productivity": 5,
-   "Experience": "10",
+   "Experience": 10,
    "Training": "Y"
  },
  {
    "Productivity": 6,
-   "Experience": "2",
+   "Experience": 2,
    "Training": "Y"
  },
  {
    "Productivity": 4,
-   "Experience": "4",
+   "Experience": 4,
    "Training": "Y"
  },
  {
    "Productivity": 3,
-   "Experience": "5",
+   "Experience": 5,
    "Training": "N"
  },
  {
    "Productivity": 9,
-   "Experience": "5",
+   "Experience": 5,
    "Training": "Y"
  },
  {
    "Productivity": 8,
-   "Experience": "10",
+   "Experience": 10,
    "Training": "Y"
  },
  {
    "Productivity": 11,
-   "Experience": "15",
+   "Experience": 15,
    "Training": "Y"
  },
  {
    "Productivity": 13,
-   "Experience": "19",
+   "Experience": 19,
    "Training": "Y"
  },
  {
    "Productivity": 4,
-   "Experience": "5",
+   "Experience": 5,
    "Training": "N"
  },
  {
    "Productivity": 5,
-   "Experience": "7",
+   "Experience": 7,
    "Training": "N"
  },
  {
    "Productivity": 7,
-   "Experience": "12",
+   "Experience": 12,
    "Training": "Y"
  },
  {
    "Productivity": 8,
-   "Experience": "15",
+   "Experience": 15,
    "Training": "N"
  },
  {
    "Productivity": 12,
-   "Experience": "20",
+   "Experience": 20,
    "Training": "Y"
  },
  {
    "Productivity": 3,
-   "Experience": "5",
+   "Experience": 5,
    "Training": "N"
  },
  {
    "Productivity": 15,
-   "Experience": "20",
+   "Experience": 20,
    "Training": "Y"
  },
  {
    "Productivity": 8,
-   "Experience": "16",
+   "Experience": 16,
    "Training": "N"
  },
  {
    "Productivity": 4,
-   "Experience": "9",
+   "Experience": 9,
    "Training": "N"
  },
  {
    "Productivity": 6,
-   "Experience": "17",
+   "Experience": 17,
    "Training": "Y"
  },
  {
    "Productivity": 9,
-   "Experience": "13",
+   "Experience": 13,
    "Training": "Y"
  },
  {
    "Productivity": 7,
-   "Experience": "6",
+   "Experience": 6,
    "Training": "Y"
  },
  {
    "Productivity": 5,
-   "Experience": "8",
+   "Experience": 8,
    "Training": "N"
  },
  {
    "Productivity": 14,
-   "Experience": "18",
+   "Experience": 18,
    "Training": "Y"
  },
  {
    "Productivity": 7,
-   "Experience": "17",
+   "Experience": 17,
    "Training": "N"
  },
  {
    "Productivity": 6,
-   "Experience": "6",
+   "Experience": 6,
    "Training": "Y"
  }
 ]
